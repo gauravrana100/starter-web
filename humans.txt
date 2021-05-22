@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gaurav Rana     gaurav.rana@Training    @gaurav
 
 # THANKS
 
