@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 Contibution works on a different scale.
+
+### Copyright
+
+2021 Git.Training
