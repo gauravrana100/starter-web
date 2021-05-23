@@ -8,7 +8,8 @@ This is just a basic introduction addition.
 This is just adding one line for rebasing code example. Adding another change for rebase example.
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+This is testing for merge.
 
 ## How to Contribute
 
