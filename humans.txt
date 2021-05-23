@@ -8,6 +8,7 @@
 # THANKS
 
     Just saying thanks to everyone.
+    Review the course.
 
 # TECHNOLOGY COLOPHON
 
