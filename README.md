@@ -10,6 +10,7 @@ This is just adding one line for rebasing code example. Adding another change fo
 
 Sample website with plenty of files for demos.
 This is testing for merge.
+Another test for rebase.
 
 ## How to Contribute
 
